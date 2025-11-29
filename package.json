@@ -1,6 +1,6 @@
 {
   "name": "json-tolerant-reader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A lightweight utility for recursively searching and extracting values from nested JSON structures by key name. Inspired by Martin Fowler's Tolerant Reader pattern.",
   "main": "index.js",
   "scripts": {
